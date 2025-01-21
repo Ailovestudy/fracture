@@ -1,0 +1,25 @@
+Model Name
+sichuan
+
+
+Project Folder
+D:\CodingFiles\WorkPlace\Zfrac\Proxy Model
+
+
+Cases
+-- parameters units   min     max
+-- 1. YM       psi       6616786    7016786   
+-- 2. PR        -           0.2       0.8
+-- 3. syy      psi        14800  15600
+-- case index  parameter 1 parameter 2 ...
+1     6816786     0.25      15590
+2     6816786     0.25      14810
+<<<
+
+Time Step Size
+50
+<<< 
+
+Total Prediction Time
+9500
+<<<

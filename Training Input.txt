@@ -1,0 +1,41 @@
+Model Name
+sichuan
+
+Project Folder
+D:\CodingFiles\WorkPlace\Zfrac\case\test_complexFracs
+
+Base Case
+D:\CodingFiles\WorkPlace\Zfrac\case\base_case
+
+Uncertain Parameters
+--Parameter                  Unit        Min       Max
+YM  psi   6616786    7016786
+PR  -     0.2   0.3
+syy   psi   14800    15600
+<<<
+   
+  
+Time Step Size
+20
+<<<
+
+Exe Path
+D:\CodingFiles\WorkPlace\Zfrac\case\test_complexFracs\base_case\ComplexHF.exe
+
+
+nTraining Cases
+5
+<<<
+
+
+nFracs
+1
+<<<
+
+nHorizontalStencils
+20
+<<<
+
+nVerticalStencils
+8
+<<<
